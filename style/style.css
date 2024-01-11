@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@300&family=Outfit:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+    width: 290px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.heading {
+    font-weight: bolder;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+.para {
+     font-size: 15px;
+     color: hsl(220, 15%, 55%);
+}
+
+img {
+     border-radius: 10px;
+     width: 100%;
+    
+}
